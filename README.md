@@ -1,0 +1,2 @@
+# Air-Pollution-Analysis-With-Poly-Regression-Prediction
+Air pollution has been recorded between 2010 and 2017 for each country in the world. Through data engineering, the population of each country has been added to reduce misunderstanding as countries of higher population result in higher pollution naturally, rather than improper actions. The top 5 and worse 5 countries are highlighted and a polynomial regression model is applied for pollution prediction in the future 
